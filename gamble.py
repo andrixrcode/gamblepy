@@ -1,4 +1,4 @@
-#biblioteca RANDOM para aleatoriedade e OS para limpara o terminal
+#biblioteca RANDOM para aleatoriedade e OS para limpar o terminal
 import random
 import os
 
